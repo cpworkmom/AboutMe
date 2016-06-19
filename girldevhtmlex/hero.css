@@ -1,0 +1,47 @@
+.jumbotronMod{
+	margin-bottom: 0px;
+	height: 600px;
+	background-image: url("images/WP_20150903_19_20_33_Pro.jpg") ;
+	background-position: -100px;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	color: #FFFFFF;
+	
+}
+
+
+.jumbotronLead{
+	padding-top: 200px
+}
+
+.bleeding{
+	left:-10px;
+	width:110%;
+	height:408px;
+	bottom: -100px;
+	
+}
+
+.setAbsolute{
+	position: absolute;
+	top: 53px;
+    padding: 20px;
+	background-color: #eceeef;
+    width: 100%;
+}
+
+.cardheightset{
+	min-height:400px;
+	
+}
+
+
+.centerText{
+	padding: 10px;
+	text-align: center;
+	font-family:Lucida Sans Unicode;
+}
+
+.setImgSize{
+	height: 300px;
+}
